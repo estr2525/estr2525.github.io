@@ -12,4 +12,4 @@ navbar:
       href: https://twitter.com/estr2525
 output:
     html_document:
-    theme: jekyll-theme-minimal
+    theme: paper
