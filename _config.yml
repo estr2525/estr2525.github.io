@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Teaching"
       href: Teaching.html
+    - text: "Publications"
+      href: pubs.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/estr2525
