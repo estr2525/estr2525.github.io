@@ -15,3 +15,5 @@ navbar:
 output:
     html_document:
     theme: paper
+
+theme: jekyll-theme-minimal
